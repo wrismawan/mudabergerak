@@ -1,0 +1,179 @@
+[01-Dec-2014 15:49:44 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 15:49:44 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 15:49:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:19:01 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:19:01 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:23:35 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:23:35 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:23:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:35:38 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:35:38 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[01-Dec-2014 16:35:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:43:36 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:43:36 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:43:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:52:39 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:52:39 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:52:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:53:34 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:53:34 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:53:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:54:34 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:54:34 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:54:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:55:59 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:56:00 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:56:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:56:58 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:56:58 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:56:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:57:23 UTC] PHP Warning:  require_once(): open_basedir restriction in effect. File(/lib/WideImage.php) is not within the allowed path(s): (/home:/tmp:/usr) in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:57:23 UTC] PHP Warning:  require_once(/lib/WideImage.php): failed to open stream: Operation not permitted in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 01:57:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/lib/WideImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wrismawan/public_html/apps/result.php on line 2
+[02-Dec-2014 02:00:38 UTC] PHP Warning:  file_get_contents(badge.PNG): failed to open stream: No such file or directory in /home/wrismawan/public_html/apps/lib/WideImage.php on line 195
+[02-Dec-2014 02:00:38 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/wrismawan/public_html/apps/lib/vendor/de77/TGA.php on line 93
+[02-Dec-2014 02:00:38 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File 'badge.PNG' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('badge.PNG')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'badge.PNG')
+#2 /home/wrismawan/public_html/apps/result.php(29): WideImage::load('badge.PNG')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 02:01:31 UTC] PHP Warning:  file_get_contents(badge.PNG): failed to open stream: No such file or directory in /home/wrismawan/public_html/apps/lib/WideImage.php on line 195
+[02-Dec-2014 02:01:31 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/wrismawan/public_html/apps/lib/vendor/de77/TGA.php on line 93
+[02-Dec-2014 02:01:31 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File 'badge.PNG' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('badge.PNG')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'badge.PNG')
+#2 /home/wrismawan/public_html/apps/result.php(29): WideImage::load('badge.PNG')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 02:02:16 UTC] PHP Warning:  file_get_contents(badge.PNG): failed to open stream: No such file or directory in /home/wrismawan/public_html/apps/lib/WideImage.php on line 195
+[02-Dec-2014 02:02:18 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/wrismawan/public_html/apps/lib/vendor/de77/TGA.php on line 93
+[02-Dec-2014 02:02:18 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File 'badge.PNG' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('badge.PNG')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'badge.PNG')
+#2 /home/wrismawan/public_html/apps/result.php(29): WideImage::load('badge.PNG')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 02:03:39 UTC] PHP Warning:  file_get_contents(/home/wrismawan/public_html/apps/badge.PNG): failed to open stream: No such file or directory in /home/wrismawan/public_html/apps/lib/WideImage.php on line 195
+[02-Dec-2014 02:03:39 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/wrismawan/public_html/apps/lib/vendor/de77/TGA.php on line 93
+[02-Dec-2014 02:03:39 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/wrismawan/public_html/apps/badge.PNG' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/wrismawan...')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, '/home/wrismawan...')
+#2 /home/wrismawan/public_html/apps/result.php(29): WideImage::load('/home/wrismawan...')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 02:04:23 UTC] PHP Warning:  file_get_contents(/home/wrismawan/public_html/apps/badge.PNG): failed to open stream: No such file or directory in /home/wrismawan/public_html/apps/lib/WideImage.php on line 195
+[02-Dec-2014 02:04:23 UTC] PHP Warning:  unpack(): Type c: not enough input, need 1, have 0 in /home/wrismawan/public_html/apps/lib/vendor/de77/TGA.php on line 93
+[02-Dec-2014 02:04:23 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/home/wrismawan/public_html/apps/badge.PNG' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 [internal function]: WideImage::loadFromFile('/home/wrismawan...')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, '/home/wrismawan...')
+#2 /home/wrismawan/public_html/apps/result.php(29): WideImage::load('/home/wrismawan...')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 02:08:48 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(25): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 02:16:16 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(25): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 02:30:58 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(25): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 02:32:35 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(25): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 02:36:22 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'File '/tmp/phplOuAhM' appears to be an invalid image source.' in /home/wrismawan/public_html/apps/lib/WideImage.php:226
+Stack trace:
+#0 /home/wrismawan/public_html/apps/lib/WideImage.php(323): WideImage::loadFromFile('/tmp/phplOuAhM')
+#1 [internal function]: WideImage::loadFromUpload('foto')
+#2 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#3 /home/wrismawan/public_html/apps/result.php(25): WideImage::load('foto')
+#4 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 226
+[02-Dec-2014 04:25:19 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 04:35:30 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 08:27:45 UTC] PHP Warning:  POST Content-Length of 9238016 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Dec-2014 10:41:39 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[02-Dec-2014 15:48:13 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[03-Dec-2014 06:19:20 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[03-Dec-2014 08:42:58 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[03-Dec-2014 08:47:35 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[04-Dec-2014 07:56:15 UTC] PHP Warning:  POST Content-Length of 9916440 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Dec-2014 13:35:35 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
+[06-Dec-2014 13:37:48 UTC] PHP Fatal error:  Uncaught exception 'WideImage_InvalidImageSourceException' with message 'Uploaded file doesn't exist.' in /home/wrismawan/public_html/apps/lib/WideImage.php:322
+Stack trace:
+#0 [internal function]: WideImage::loadFromUpload('foto')
+#1 /home/wrismawan/public_html/apps/lib/WideImage.php(184): call_user_func(Array, 'foto')
+#2 /home/wrismawan/public_html/apps/result.php(31): WideImage::load('foto')
+#3 {main}
+  thrown in /home/wrismawan/public_html/apps/lib/WideImage.php on line 322
